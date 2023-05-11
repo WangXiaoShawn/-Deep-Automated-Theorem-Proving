@@ -1,5 +1,4 @@
-# -Deep-Automated-Theorem-Proving
- Deep-Automated-Theorem-Proving 
+
 # Predicting One-step Proofs in Formal Mathematics using Transformer-based Neural Networks
 ## Deep Automated Theorem Proving
 
